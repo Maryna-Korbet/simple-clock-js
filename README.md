@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./img/clock.svg" alt="Simple Clock" width="50px"/>
+  <img src="./public/clock.svg" alt="Simple Clock" width="50px"/>
 &#xa0;
 </div>
 
@@ -12,7 +12,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Maryna-Korbet/simple-clock-js?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Maryna-Korbet/simple-clock-js?color=56BEB8">
 </p>
 
 <br>
@@ -32,7 +31,7 @@ Task solution: create a simple clock according to the description.
 task.</a> &#xa0;
 
 <div align="center" > 
-  <img src="./img/screenshot.jpg" alt="screenshot" />
+  <img src="./public/screenshot.jpg" alt="screenshot" />
 &#xa0;
 </div>
 
