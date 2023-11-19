@@ -5,7 +5,8 @@ body {
 }
 
 .container {
-  display: flex-column; 
+  display: flex; 
+  flex-direction: column;
   justify-content: space-between;
   width: 1500px;
 }
