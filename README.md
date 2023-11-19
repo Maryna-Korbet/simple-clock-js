@@ -1,8 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./img/clock.svg" alt="Simple Clock" width="50px"/>
-&#xa0;
-</div>
-
 <h1 align="center">Simple Clock</h1>
 
 <p align="center">
